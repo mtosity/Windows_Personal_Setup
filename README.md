@@ -14,6 +14,8 @@ Download Links:
 
 [RAR](https://www.rarlab.com/download.htm)
 
+[Adobe PDF](https://get.adobe.com/reader/)
+
 
 * Editing:
 
