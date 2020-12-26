@@ -6,7 +6,7 @@ My personal setup for a fresh windows
 
 ## Download Links:
 
-* Basics:
+### Basics:
 
 [Chrome](https://www.google.com/chrome/)
 
@@ -17,7 +17,7 @@ My personal setup for a fresh windows
 [Adobe PDF](https://get.adobe.com/reader/)
 
 
-* Editing:
+### Editing:
 
 [OBS Studio (Stream + Video Recorder)](https://obsproject.com/)
 
@@ -26,7 +26,7 @@ My personal setup for a fresh windows
 [Figma (Design)](https://www.figma.com/)
 
 
-* Development:
+### Development:
 
 [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
@@ -44,7 +44,7 @@ My personal setup for a fresh windows
 
 [Docker](https://www.docker.com/get-started)
 
-* Games
+### Games
 
 [Garena](https://www.garena.vn/gpc)
 
@@ -52,7 +52,7 @@ My personal setup for a fresh windows
 
 ## Docker for DB
 
-* Mongodb
+### Mongodb
 
 ```
 docker pull mongo
@@ -61,7 +61,7 @@ docker run -d -p 27017:27017 --name mongodb mongo
 
 Connect via [Mongo Compass](https://www.mongodb.com/try/download/tools)
 
-* Postgres
+### Postgres
 
 ```
 docker pull postgres
