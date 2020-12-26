@@ -59,12 +59,33 @@ docker pull mongo
 docker run -d -p 27017:27017 --name mongodb mongo
 ```
 
+Connect via [Mongo Compass](https://www.mongodb.com/try/download/tools)
+
 * Postgres
 
 ```
-docker pull mongo
-docker run --name some-postgres -e POSTGRES_PASSWORD=1212 -p 5432:5432 -d postgres
+docker pull postgres
+docker run --name postgres -e POSTGRES_PASSWORD=1212 -e POSTGRES_USER=user -p 5432:5432 -d postgres
 ```
+
+Connect via [dbvis](https://www.dbvis.com/download/11.0)
+
+If you use pgAdmin 4 to connect Postgres:
+
+```
+docker pull dpage/pgadmin4
+docker run --name pgadmin4 -p 80:80 -e 'PGADMIN_DEFAULT_EMAIL=mtosity@gmail.com' -e 'PGADMIN_DEFAULT_PASSWORD=1212' -d dpage/pgadmin4
+```
+
+And go to localhost:80 log in to pgAdmin
+
+Create new server with the info:
+
+- username: user
+- password: 1212
+- host: 172.17.0.3
+
+Host ip is the ip of the Postgres docker, to check it run `docker inspect postgres` and find IPAddress
 
 ## Cloning all repos 
 
