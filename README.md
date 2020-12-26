@@ -50,6 +50,22 @@ My personal setup for a fresh windows
 
 [League Of Legends (Sync to gg drive every update, Garena VN server)](https://drive.google.com/drive/folders/1ePfpqvSlo3wHA-dQFbCgGX7aroM3yLme?usp=sharing)
 
+## Docker for DB
+
+* Mongodb
+
+```
+docker pull mongo
+docker run -d -p 27017:27017 --name mongodb mongo
+```
+
+* Postgres
+
+```
+docker pull mongo
+docker run --name some-postgres -e POSTGRES_PASSWORD=1212 -p 5432:5432 -d postgres
+```
+
 ## Cloning all repos 
 
 CNTX={users|orgs}; NAME={username|orgname}; PAGE=1
