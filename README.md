@@ -32,13 +32,13 @@ My personal setup for a fresh windows
 
 [Fluent Terminal](https://github.com/felixse/FluentTerminal) ([Snazzy theme](https://raw.githubusercontent.com/hrko/FluentTerminal-Snazzy/master/Snazzy.flutecolors))
 
+Install [React Native](https://reactnative.dev/docs/environment-setup) first, why? Cuz it cover the right way to install JAVA JDK, NodeJS via choco
+
 [Visual Studio Code](https://code.visualstudio.com/)
 
 [Visual Studio Community](https://visualstudio.microsoft.com/downloads/)
 
 [Git](https://git-scm.com/downloads)
-
-[Java](https://www.java.com/en/)
 
 [MinGW CPP](https://osdn.net/projects/mingw/releases/)
 
