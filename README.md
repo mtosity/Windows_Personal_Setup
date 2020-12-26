@@ -42,6 +42,8 @@ My personal setup for a fresh windows
 
 [Android Studio](https://developer.android.com/studio)
 
+Enable "Windows Hypervisor Platform" in "Window Features" 
+
 [Docker](https://www.docker.com/get-started)
 
 ### Games
@@ -87,7 +89,7 @@ Create new server with the info:
 
 Host ip is the ip of the Postgres docker, to check it run `docker inspect postgres` and find IPAddress
 
-## Cloning all personal repos
+## Cloning all personal repos 
 
 CNTX={users|orgs}; NAME={username|orgname}; PAGE=1
 curl "https://api.github.com/$CNTX/$NAME/repos?page=$PAGE&per_page=100" |
