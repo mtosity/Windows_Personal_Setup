@@ -50,7 +50,7 @@ My personal setup for a fresh windows
 
 [Garena](https://www.garena.vn/gpc)
 
-[League Of Legends (Sync to gg drive every update, Garena VN server)](https://drive.google.com/drive/folders/1ePfpqvSlo3wHA-dQFbCgGX7aroM3yLme?usp=sharing)
+[Garena games folder (LOL)](https://drive.google.com/drive/folders/1ePfpqvSlo3wHA-dQFbCgGX7aroM3yLme?usp=sharing)
 
 ## Docker for DB
 
