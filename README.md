@@ -36,8 +36,9 @@ My personal setup for a fresh windows
 
 [Java](https://www.java.com/en/)
 
-[Android Studio](https://developer.android.com/studio)
+[MinGW CPP](https://osdn.net/projects/mingw/releases/)
 
+[Android Studio](https://developer.android.com/studio)
 
 * Games
 
