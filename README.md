@@ -8,7 +8,7 @@ My personal setup for a fresh windows
 
 ### Basics:
 
-[Chrome](https://www.google.com/chrome/)
+[Chrome](https://www.google.com/chrome/) / [Brave](https://brave.com/download/)
 
 [VLC](https://get.videolan.org/)
 
