@@ -42,7 +42,7 @@ My personal setup for a fresh windows
 
 [MinGW CPP](https://osdn.net/projects/mingw/releases/)
 
-[Android Studio](https://developer.android.com/studio). Enable "Windows Hypervisor Platform" in "Window Features", disable "Hyper-V" and install HAXM again if blue screen
+[Android Studio](https://developer.android.com/studio) (Enable "Windows Hypervisor Platform" in "Window Features", disable "Hyper-V" and install HAXM again if blue screen when run emulator)
 
 [Docker](https://www.docker.com/get-started)
 
