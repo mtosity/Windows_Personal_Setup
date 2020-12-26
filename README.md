@@ -40,9 +40,7 @@ My personal setup for a fresh windows
 
 [MinGW CPP](https://osdn.net/projects/mingw/releases/)
 
-[Android Studio](https://developer.android.com/studio)
-
-Enable "Windows Hypervisor Platform" in "Window Features" 
+[Android Studio](https://developer.android.com/studio). Enable "Windows Hypervisor Platform" in "Window Features", disable "Hyper-V" and install HAXM again if blue screen
 
 [Docker](https://www.docker.com/get-started)
 
