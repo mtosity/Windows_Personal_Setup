@@ -32,7 +32,9 @@ My personal setup for a fresh windows
 
 [Fluent Terminal](https://github.com/felixse/FluentTerminal) ([Snazzy theme](https://raw.githubusercontent.com/hrko/FluentTerminal-Snazzy/master/Snazzy.flutecolors))
 
-Install [React Native](https://reactnative.dev/docs/environment-setup) first, why? Cuz it cover the right way to install JAVA JDK, NodeJS via choco
+[Android Studio](https://developer.android.com/studio) (Enable "Windows Hypervisor Platform" in "Window Features", disable "Hyper-V" and install HAXM again if blue screen when run emulator)
+
+Install [React Native](https://reactnative.dev/docs/environment-setup) after that, why? Cuz it cover the right way to install JAVA JDK, NodeJS via choco, add PATH
 
 [Visual Studio Code](https://code.visualstudio.com/)
 
@@ -41,8 +43,6 @@ Install [React Native](https://reactnative.dev/docs/environment-setup) first, wh
 [Git](https://git-scm.com/downloads)
 
 [MinGW CPP](https://osdn.net/projects/mingw/releases/)
-
-[Android Studio](https://developer.android.com/studio) (Enable "Windows Hypervisor Platform" in "Window Features", disable "Hyper-V" and install HAXM again if blue screen when run emulator)
 
 [Docker](https://www.docker.com/get-started)
 
