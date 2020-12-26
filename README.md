@@ -28,6 +28,8 @@ My personal setup for a fresh windows
 
 * Development:
 
+[WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+
 [Visual Studio Code](https://code.visualstudio.com/)
 
 [Visual Studio Community](https://visualstudio.microsoft.com/downloads/)
@@ -40,9 +42,12 @@ My personal setup for a fresh windows
 
 [Android Studio](https://developer.android.com/studio)
 
+[Docker](https://www.docker.com/get-started)
+
 * Games
 
 [Garena](https://www.garena.vn/gpc)
+
 [League Of Legends (Sync to gg drive every update, Garena VN server)](https://drive.google.com/drive/folders/1ePfpqvSlo3wHA-dQFbCgGX7aroM3yLme?usp=sharing)
 
 ## Cloning all repos 
