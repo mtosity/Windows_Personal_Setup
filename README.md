@@ -30,6 +30,8 @@ My personal setup for a fresh windows
 
 [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
+[Fluent Terminal](https://github.com/felixse/FluentTerminal) ([Snazzy theme](https://raw.githubusercontent.com/hrko/FluentTerminal-Snazzy/master/Snazzy.flutecolors))
+
 [Visual Studio Code](https://code.visualstudio.com/)
 
 [Visual Studio Community](https://visualstudio.microsoft.com/downloads/)
