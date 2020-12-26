@@ -42,7 +42,7 @@ Install [React Native](https://reactnative.dev/docs/environment-setup) after tha
 
 [Git](https://git-scm.com/downloads)
 
-[MinGW CPP](https://osdn.net/projects/mingw/releases/)
+[MinGW CPP](https://osdn.net/projects/mingw/releases/). Add C:\MinGW\bin to Path
 
 [Docker](https://www.docker.com/get-started)
 
