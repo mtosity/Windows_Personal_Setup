@@ -1,5 +1,14 @@
 # Windows_Personal_Setup
 
+## Windows debloader
+
+https://github.com/Sycnex/Windows10Debloater
+iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/debloat'))
+
+https://www.oo-software.com/en/shutup10
+
+https://github.com/WereDev/Wu10Man
+
 My personal setup for a fresh windows
 
 [Windows 10 LTSC 2019](https://drive.google.com/file/d/11-Uz-W0g0aL_4v5Rv6MuR6ykvaDH3COr/view?usp=sharing)
